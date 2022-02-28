@@ -1,4 +1,6 @@
 # 👋 Andrew Grass (@theandrewgrass)
+<img src="https://pbs.twimg.com/profile_banners/1314687785182392320/1637531006/1500x500" alt="Abstract AG initials" />
+
 Hi, I'm Andrew--a software developer at Rakuten Kobo. 📕
 I work all around the stack, but I do have a soft spot for the frontend. 
 I love to work with JavaScript--React and Web Components in particular. I'm also a big fan of .NET and RavenDB.
